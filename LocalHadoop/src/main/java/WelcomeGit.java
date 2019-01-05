@@ -5,7 +5,7 @@ public class WelcomeGit {
 		System.out.println("WELCOME TO GIT:Test1");
 		System.out.println("Merge Test");
 		System.out.println("New Line:"+"change1");
-		//hello
+		//hello2
 		git1.display();
 	}
 
